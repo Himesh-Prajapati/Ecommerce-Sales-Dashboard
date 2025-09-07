@@ -4,7 +4,7 @@
 This E-commerce Sales Dashboard is a dynamic, interactive analytics tool designed to help businesses monitor and visualize their sales performance effectively. Built using Power BI / Tableau / React + Chart libraries, it provides actionable insights into product sales, revenue trends, customer behavior, and overall business health.
 
 📸 Dashboard Preview
-
+https://github.com/Himesh-Prajapati/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Dashboard.jpg
 
 ✨ Key Features:
 📊 Interactive Visualizations: Real-time charts and graphs for sales, revenue, and product performance.
